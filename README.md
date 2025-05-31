@@ -13,4 +13,5 @@ The project is ideal for beginners who want to learn how to build REST APIs with
 To run the project, install Node.js, install Express, and start the server. You can test API endpoints via the frontend or tools like Postman.
 
 
-![ Alt Text](https://github.com/SreepriyaSamudrala/-REST-API-to-Manage-a-List-of-Books-Using-Node.js-and-Express/blob/main/Screenshot%202025-05-29%20200045.png?raw=true)
+![ Alt Text](https://github.com/sethumadhavan505/REST-API-to-Manage-a-List-of-Books/blob/main/Screenshot%202025-05-29%20200045.png?raw=true)
+
